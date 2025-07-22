@@ -1,6 +1,5 @@
 export async function onRequest(context) {
   const redirects = {
-    "﻿1-arm-bandit-microgaming-populiarnyi-onlain-avtomat-ot-quickspin-vypushchennyi-v-2022-godu": "﻿https://t.me/s/﻿MultiGaminatorPlus",
 "1-reel-classic-legendarnyi-slot-ot-netent-vypushchennyi-v-2023-godu": "https://t.me/s/Eldorado_promoKey",
 "1-reel-egypt-original-nyi-slot-ot-microgaming-vyshedshii-v-2020-godu": "https://t.me/s/Parimatch_promoKey",
 "1-reel-golden-piggy-neobychnyi-onlain-slot-ot-microgaming-vyshedshii-v-2022-godu": "https://t.me/s/Futuriti_promocode",
